@@ -51,3 +51,12 @@ https://www.yahoo.co.jp/
 ----
 この会社の主要な製品は、
 ```
+
+## フューショットプロンプト
+
+```
+EC2:AWS
+Cloud Run:Google Cloud
+Autonomous Database:OCI
+App Service:
+```
