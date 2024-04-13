@@ -60,3 +60,18 @@ Cloud Run:Google Cloud
 Autonomous Database:OCI
 App Service:
 ```
+
+```
+App Serviceはどのクラウドですか？
+```
+
+## Chain of thought
+LLMはタスクを小さなステップに分割し世界に関する知識と推論能力を使用します。
+
+```
+Microsoftが世界的なソフトウェア企業となった理由について創生期にさかのぼりStep-by Stepで説明してください。
+```
+
+```
+Microsoftが世界的なソフトウェア企業となった理由を創生期にさかのぼり説明してください。
+```
